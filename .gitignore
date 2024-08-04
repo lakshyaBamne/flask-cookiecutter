@@ -1,0 +1,8 @@
+# directories to ignore
+.vscode/
+__pycache__/
+venv/
+.venv/
+test/
+
+# files to ignore with a particular extension
